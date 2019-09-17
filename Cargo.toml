@@ -1,0 +1,7 @@
+[package]
+name = "lampton"
+version = "0.1.0"
+authors = ["Paul Collier <paul@paulcollier.ca>"]
+edition = "2018"
+
+[dependencies]
